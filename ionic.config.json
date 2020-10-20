@@ -1,0 +1,7 @@
+{
+  "name": "VSCTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
